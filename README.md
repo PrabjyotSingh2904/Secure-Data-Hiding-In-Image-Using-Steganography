@@ -29,7 +29,7 @@ To use this project, follow these steps:
 
 1. **Download the repository** or **clone it using Git**:
     ```bash
-    https://github.com/PrabjyotSingh2904/Secure-Data-Hiding-In-Image-Using-Steganography.git
+    git clone https://github.com/PrabjyotSingh2904/Secure-Data-Hiding-In-Image-Using-Steganography.git
     ```
 
 2. Ensure you have the required dependencies (`OpenCV`, `pickle`, and `os`). Install OpenCV by running:
