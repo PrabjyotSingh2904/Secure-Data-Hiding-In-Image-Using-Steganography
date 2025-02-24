@@ -73,7 +73,7 @@ Image encrypted and saved as 'Encrypted_Image.jpg'
 Encryption Successful
 ```
 
-### How It Works
+#### How It Works
 
 - The message is converted into ASCII values.
 - These ASCII values are embedded into the RGB values of the image pixels. The pixel values are modified slightly to store one character at a time. The RGB channels (Red, Green, Blue) are cycled through to encode the message across multiple pixels.
@@ -100,7 +100,7 @@ Enter passcode for Decryption: pass2904
 Decryption message: This is a secret message
 ```
 
-### How It Works
+#### How It Works
 
 - The encrypted image is loaded.
 - The pixel values of the image are retrieved, and the encoded message is extracted using the character mappings saved during encryption.
