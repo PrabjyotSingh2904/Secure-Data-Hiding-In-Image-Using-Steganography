@@ -8,8 +8,8 @@ This Python project demonstrates a simple implementation of Steganography, where
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
-  - [Encrypting the Message](#A.-encrypting-the-message)
-  - [Decrypting the Message](#B.-decrypting-the-message)
+  - [Encrypting the Message](#A.-encrypting-the-message-encrypt.py)
+  - [Decrypting the Message](#B.-decrypting-the-message-decrypt.py)
 - [License](#license)
 - [Author](#author)
 
